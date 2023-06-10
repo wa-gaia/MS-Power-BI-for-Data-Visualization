@@ -1,2 +1,2 @@
-# MS Power BI - Data Science Academy
- Microsft Power BI Para Business Intelligence e Dta Science
+# MS Power BI for Data Visualization
+ Microsft Power BI Para Business Intelligence, data visualization e Data Science
